@@ -2,5 +2,5 @@
 
 ## Installation
 ```sh
-git clone https://github.com/br0kenpixel/lvim-config ~/.config/lvim
+git clone https://github.com/br0kenpixel/lvim-config ~/.config/nvim
 ```
